@@ -1,5 +1,4 @@
 /**
- * Name : Saman Zarei
  * This program is Minecraft simulations with new rules. What we need to do
  * in this game, is rotating our home which is created from group numbers
  * of rows and columns 90 degree. Also we need to search if there is any
@@ -13,7 +12,6 @@ import java.util.ArrayList;
  * This class has designed to rotate the group numbers of rows and
  * culomns 90 degree and also to identify the mobs that were in contact with
  * infected mob and need to be tested.
- * @author Saman Zarei
  */
 
 public class Minecraft{
